@@ -1,0 +1,44 @@
+[
+  {
+    "block_id": 0,
+    "timestamp": "2025-12-01 18:51:58",
+    "data": "Bloque Génesi - Inicio de la cadena",
+    "prev_hash": "0",
+    "hash": "059d29e71d930245fd6692d249895473f25e41af447f0f312d88e1b6a231beb3"
+  },
+  {
+    "block_id": 1,
+    "timestamp": "2025-12-01 18:51:59",
+    "data": "Transacción #1: Juan -> María $100",
+    "prev_hash": "059d29e71d930245fd6692d249895473f25e41af447f0f312d88e1b6a231beb3",
+    "hash": "a3337f07a2e6074d6c3273170b4839457ed2f9dad6c5af11c8831532deea9b89"
+  },
+  {
+    "block_id": 2,
+    "timestamp": "2025-12-01 18:52:00",
+    "data": "Transacción #2: Pedro -> Ana $50",
+    "prev_hash": "a3337f07a2e6074d6c3273170b4839457ed2f9dad6c5af11c8831532deea9b89",
+    "hash": "87f9977255a4607fc92597b0f513cdc9a87ec924c747d62f9dbbf26c31cd2054"
+  },
+  {
+    "block_id": 3,
+    "timestamp": "2025-12-01 18:52:00",
+    "data": "Transacción #3: María -> Luis $75",
+    "prev_hash": "87f9977255a4607fc92597b0f513cdc9a87ec924c747d62f9dbbf26c31cd2054",
+    "hash": "9401348af5b6d73349312291f82472fc45af07ae65033d4a954c232386fafde1"
+  },
+  {
+    "block_id": 4,
+    "timestamp": "2025-12-01 18:52:01",
+    "data": "Evento: Nuevo usuario registrado - ID: 12345",
+    "prev_hash": "9401348af5b6d73349312291f82472fc45af07ae65033d4a954c232386fafde1",
+    "hash": "1931de6401d42ce10ddc4ac0cb16985594fdfa728c3d4fbfcc351dc2e9a6f503"
+  },
+  {
+    "block_id": 5,
+    "timestamp": "2025-12-01 18:52:01",
+    "data": "Log: Sistema actualizado a versión 2.0",
+    "prev_hash": "1931de6401d42ce10ddc4ac0cb16985594fdfa728c3d4fbfcc351dc2e9a6f503",
+    "hash": "a336dbb760d6178c9245e92d5c484437cb5ab4913f86a033cce8d0fca6f116dc"
+  }
+]
